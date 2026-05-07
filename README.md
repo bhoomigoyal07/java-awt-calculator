@@ -15,8 +15,8 @@ A simple calculator application built using Java AWT.
 
 ## 📷 Screenshot
 
-![Calculator Screenshot](screenshot1.png)
 ![Calculator Screenshot](screenshot2.png)
+![Calculator Screenshot](screenshot1.png)
 
 ## 📚 Learning Outcomes
 - GUI development
