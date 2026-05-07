@@ -1,2 +1,24 @@
-# java-awt-calculator
-A simple calculator built using Java AWT that performs basic arithmetic operations.
+# Java AWT Calculator
+
+## 📌 Description
+A simple calculator application built using Java AWT.
+
+## 🚀 Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## 🛠️ Technologies Used
+- Java
+- AWT
+
+## 📷 Screenshot
+
+![Calculator Screenshot](screenshot1.png)
+![Calculator Screenshot](screenshot2.png)
+
+## 📚 Learning Outcomes
+- GUI development
+- Event handling
+- Java project structure
